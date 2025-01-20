@@ -1,3 +1,2 @@
-run:y
-y
+run:
 	go run ./cmd/main
